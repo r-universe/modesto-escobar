@@ -8,3 +8,13 @@
 	url = https://github.com/modesto-escobar/netcoin-2.x
 	shallow = true
 	registered = true
+[submodule "rD3plot"]
+	path = rD3plot
+	url = https://github.com/modesto-escobar/rd3plot
+	shallow = true
+	registered = true
+[submodule "wikiTools"]
+	path = wikiTools
+	url = https://github.com/modesto-escobar/wikitools
+	shallow = true
+	registered = true

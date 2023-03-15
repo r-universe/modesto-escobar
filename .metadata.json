@@ -2,5 +2,13 @@
   {
     "package": "netCoin",
     "oncran": true
+  },
+  {
+    "package": "rD3plot",
+    "oncran": true
+  },
+  {
+    "package": "wikiTools",
+    "oncran": true
   }
 ]
