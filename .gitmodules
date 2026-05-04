@@ -7,7 +7,7 @@
 	url = https://github.com/modesto-escobar/evolmap
 [submodule "netCoin"]
 	path = netCoin
-	url = https://github.com/modesto-escobar/netcoin-2.x
+	url = https://github.com/modesto-escobar/netcoin
 [submodule "rD3plot"]
 	path = rD3plot
 	url = https://github.com/modesto-escobar/rd3plot
